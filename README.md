@@ -129,11 +129,11 @@ Created DAX measures including Conversion Rate, Conversion Volatility, Engagemen
 
 ### Key Findings
 
-* Conversion rates fluctuated significantly, peaking in **January (18.5%)** and dropping to **4.3% in May**.
+* Conversion rates fluctuated significantly, peaking in **January (17.31%)** and dropping to **6.51% in October**.
 * Major drop-offs occur between the Click and Purchase stages.
-* Engagement declined in the second half of the year despite a **15.37% click-through rate**.
+* Engagement declined in the second half of the year.
 * Blog content generated the highest views compared to social and video content.
-* Sentiment analysis shows strong positive dominance (275 positive reviews), but average rating remains below the 4.0 benchmark.
+* Sentiment analysis shows strong positive dominance (840 positive reviews), but average rating remains below the 4.0 benchmark.
 
 ### Recommendations
 
