@@ -18,7 +18,7 @@ The project focuses on identifying **where visitors drop off, which content driv
 * Applied NLP-based sentiment analysis on customer reviews
 * Delivered actionable recommendations to improve conversion and ROI
 
----
+
 
 ## 2. Business Problem
 
@@ -39,7 +39,6 @@ Without a centralized analytical view, stakeholders lack clarity on:
 **Objective:**
 Build a scalable analytics solution integrating customer journey, engagement, product, and sentiment data to improve conversion rates, engagement levels, and customer satisfaction.
 
----
 
 ## 3. Methodology
 
@@ -88,7 +87,7 @@ Developed four analytical pages:
 
 Created DAX measures including Conversion Rate, Conversion Volatility, Engagement KPIs, Average Rating, Sentiment Metrics, and Funnel Analysis.
 
----
+
 
 ## 4. Skills
 
@@ -123,7 +122,7 @@ Created DAX measures including Conversion Rate, Conversion Volatility, Engagemen
 * Sentiment analysis
 * Volatility measurement
 
----
+
 
 ## 5. Results & Business Recommendations
 
@@ -143,7 +142,7 @@ Created DAX measures including Conversion Rate, Conversion Volatility, Engagemen
 * Increase investment in high-performing content types (Blog + Social).
 * Implement structured feedback resolution for mixed and negative reviews.
 
----
+
 
 ## 6. Next Steps
 
@@ -153,7 +152,7 @@ Created DAX measures including Conversion Rate, Conversion Volatility, Engagemen
 * Add cohort retention analysis
 * Automate sentiment refresh pipeline
 
----
+
 
 ## Project Assets
 
@@ -163,7 +162,7 @@ Created DAX measures including Conversion Rate, Conversion Volatility, Engagemen
 * Dashboard screenshots (4 pages)
 * Project documentation (PDF)
 
----
+
 
 If you want, I can now also give you:
 
