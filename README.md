@@ -176,6 +176,7 @@ Created DAX measures including Conversion Rate, Conversion Volatility, Engagemen
 
 * Power BI Report (.pbix)
 
+  [Marketing Anlytics Report.pbix](https://github.com/Pravin-Kumar-D/Marketing-Analysis/blob/e69feb97ebdb7cfe8e41c7aacf94eb869799253e/Assets/Marketing%20Anlytics%20Report.pbix)
   
 * Dashboard screenshots (4 pages)
 
