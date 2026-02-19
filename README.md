@@ -1,4 +1,3 @@
-
 # Marketing-Analysis
 
 
@@ -157,15 +156,34 @@ Created DAX measures including Conversion Rate, Conversion Volatility, Engagemen
 ## Project Assets
 
 * SQL transformation scripts
+  
+  [Customer Journey table.sql](https://github.com/user-attachments/files/25416319/Customer.Journey.table.sql)
+  
+  [Customer Reviews table.sql](https://github.com/user-attachments/files/25416329/Customer.Reviews.table.sql)
+  
+  [Customers table.sql](https://github.com/user-attachments/files/25416333/Customers.table.sql)
+  
+  [Engagement Data table.sql](https://github.com/user-attachments/files/25416337/Engagement.Data.table.sql)
+  
+  [Products table.sql](https://github.com/user-attachments/files/25416357/Products.table.sql)
+
+
+
+
 * Python sentiment analysis script
+  
+  [Customer Review Sentiment Analysis.py](https://github.com/user-attachments/files/25416554/Customer.Review.Sentiment.Analysis.py)
+
 * Power BI Report (.pbix)
+
+  
 * Dashboard screenshots (4 pages)
-* Project documentation (PDF)
+
+  <img width="1120" height="632" alt="Page 1" src="https://github.com/user-attachments/assets/ef57623a-d215-40ef-86ae-51ed6e8c2def" />
+  <img width="1125" height="631" alt="Page 2" src="https://github.com/user-attachments/assets/63e5d68c-a428-4dc0-bbb8-c3a6107f54e6" />
+  <img width="1122" height="633" alt="Page 3" src="https://github.com/user-attachments/assets/eeb41e10-9d41-42d3-b6b6-f98d90e0f08e" />
+  <img width="1124" height="632" alt="Page 4" src="https://github.com/user-attachments/assets/52f3399d-4fc2-47bd-834a-57c488370c28" />
 
 
 
-If you want, I can now also give you:
 
-* A strong **1-line portfolio headline**
-* A short **LinkedIn description**
-* Or a **resume-ready 3 bullet summary** 🚀
