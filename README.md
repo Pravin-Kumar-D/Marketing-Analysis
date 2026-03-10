@@ -157,22 +157,22 @@ Created DAX measures including Conversion Rate, Conversion Volatility, Engagemen
 
 * SQL transformation scripts
   
-  [Customer Journey table.sql](https://github.com/user-attachments/files/25416319/Customer.Journey.table.sql)
+  [Customer Journey table.sql](https://github.com/Pravin-Kumar-D/Marketing-Analysis/blob/386ec13e6a58d68ff20ce7016a1d3511e9e6b3c7/sql/Customer%20Journey%20table.sql)
   
-  [Customer Reviews table.sql](https://github.com/user-attachments/files/25416329/Customer.Reviews.table.sql)
+  [Customer Reviews table.sql](https://github.com/Pravin-Kumar-D/Marketing-Analysis/blob/386ec13e6a58d68ff20ce7016a1d3511e9e6b3c7/sql/Customer%20Reviews%20table.sql)
   
-  [Customers table.sql](https://github.com/user-attachments/files/25416333/Customers.table.sql)
+  [Customers table.sql]([https://github.com/user-attachments/files/25416333/Customers.table.sql](https://github.com/Pravin-Kumar-D/Marketing-Analysis/blob/386ec13e6a58d68ff20ce7016a1d3511e9e6b3c7/sql/Customers%20table.sql))
   
-  [Engagement Data table.sql](https://github.com/user-attachments/files/25416337/Engagement.Data.table.sql)
+  [Engagement Data table.sql](https://github.com/Pravin-Kumar-D/Marketing-Analysis/blob/386ec13e6a58d68ff20ce7016a1d3511e9e6b3c7/sql/Engagement%20Data%20table.sql)
   
-  [Products table.sql](https://github.com/user-attachments/files/25416357/Products.table.sql)
+  [Products table.sql](https://github.com/Pravin-Kumar-D/Marketing-Analysis/blob/386ec13e6a58d68ff20ce7016a1d3511e9e6b3c7/sql/Products%20table.sql)
 
 
 
 
 * Python sentiment analysis script
   
-  [Customer Review Sentiment Analysis.py](https://github.com/user-attachments/files/25416554/Customer.Review.Sentiment.Analysis.py)
+  [Customer Review Sentiment Analysis.py](https://github.com/Pravin-Kumar-D/Marketing-Analysis/blob/386ec13e6a58d68ff20ce7016a1d3511e9e6b3c7/Python/Customer%20Review%20Sentiment%20Analysis.py)
 
 * Power BI Report (.pbix)
 
