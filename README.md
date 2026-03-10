@@ -161,7 +161,7 @@ Created DAX measures including Conversion Rate, Conversion Volatility, Engagemen
   
   [Customer Reviews table.sql](https://github.com/Pravin-Kumar-D/Marketing-Analysis/blob/386ec13e6a58d68ff20ce7016a1d3511e9e6b3c7/sql/Customer%20Reviews%20table.sql)
   
-  [Customers table.sql]([https://github.com/user-attachments/files/25416333/Customers.table.sql](https://github.com/Pravin-Kumar-D/Marketing-Analysis/blob/386ec13e6a58d68ff20ce7016a1d3511e9e6b3c7/sql/Customers%20table.sql))
+  [Customers table.sql](https://github.com/Pravin-Kumar-D/Marketing-Analysis/blob/d06597dcfc2a790e8d48a78db59fc827d21c2c90/sql/Customers%20table.sql)
   
   [Engagement Data table.sql](https://github.com/Pravin-Kumar-D/Marketing-Analysis/blob/386ec13e6a58d68ff20ce7016a1d3511e9e6b3c7/sql/Engagement%20Data%20table.sql)
   
